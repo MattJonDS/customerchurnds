@@ -21,7 +21,7 @@ def main():
 	st.subheader("Simple DataScience App with Streamlit")
 
 	html_temp = """
-	<div style="background-color:tomato;"><p style="color:white;font-size:60px;"> Streamlit is Awesome</p></div>
+	<div style="background-color:tomato;"><p style="color:white;font-size:60px;"> Modelling Your Data</p></div>
 	"""
 	st.markdown(html_temp,unsafe_allow_html=True)
 
